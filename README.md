@@ -51,7 +51,7 @@ With Langflow for workflow automation and DataStax Astra DB for secure and scala
 2. **Setup Instructions**  
    - Clone this repository:  
      ```bash  
-     git clone https://github.com/YourGitHubUsername/NovaLens.git  
+     git clone https://github.com/WhiteTiger-y/Level-Supermind.git  
      cd NovaLens  
      ```  
    - Install dependencies (if required):  
